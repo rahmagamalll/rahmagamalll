@@ -49,9 +49,9 @@
 <h2 align="left">📬 Contact me</h2>
 
 <p align="left">
-  <a href="gamalrahma186@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:gamalrahma186@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
   <a href="https://linkedin.com/in/rahma-gamal2002" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
