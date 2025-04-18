@@ -52,7 +52,7 @@
   <a href="gamalrahma186@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="linkedin.com/in/rahma-gamal2002" target="_blank">
+  <a href="https://linkedin.com/in/rahma-gamal2002" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rahmagamalll" target="_blank">
