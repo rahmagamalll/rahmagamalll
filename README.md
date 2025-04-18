@@ -13,7 +13,6 @@
 <p align="left">
 🌟 I'm a Computer Science student at Ain Shams University, passionate about building beautiful and functional mobile apps using Flutter.<br>
 💡 I love solving problems, learning new tech, and working on real-life projects.<br>
-🚀 Currently working on a Flutter app with a .NET backend that lets users create dynamic tables and queries.<br>
 🌱 Always learning: State Management, Firebase, Clean Architecture.
 </p>
 
@@ -47,35 +46,16 @@
 
 ###
 
-<h2 align="left">📌 Projects</h2>
-
-<ul align="left">
-  <li>📱 <strong>Skill Exchange App</strong> – A Flutter app to help students share and learn skills</li>
-  <li>📊 <strong>Dynamic Table & Query Builder</strong> – Create custom tables & run conditions with no-code UI</li>
-  <li>🔐 <strong>Secure Auth System</strong> – Login & Signup with Dio and token handling</li>
-</ul>
-
-###
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmagamal&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmagamal&layout=compact&theme=tokyonight" height="180"/>
-</div>
-
-###
-
 <h2 align="left">📬 Contact me</h2>
 
 <p align="left">
-  <a href="mailto:rahma.gamal@example.com" target="_blank">
+  <a href="gamalrahma186@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="linkedin.com/in/rahma-gamal2002" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/rahmagamal" target="_blank">
+  <a href="https://github.com/rahmagamalll" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
