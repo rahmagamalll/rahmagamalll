@@ -1,45 +1,87 @@
-<h1 align="center">Hi 👋, I'm Rahma Gamal</h1>
-<h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I’m currently working on **Flutter apps with .NET backend**
-- 🌱 I’m learning more about **State Management, Firebase, and Clean Architecture**
-- 💬 Ask me about **Flutter, Dart, SQLite, and API integration**
-- 📫 How to reach me: **rahma.gamal@example.com**
-- 🎓 CS Student at Ain Shams University 💻
+###
 
----
+<p align="left">My name is Rahma Gamal</p>
 
-### 🛠️ Languages and Tools
+###
+
+<h2 align="left">About me</h2>
+
+###
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+🌟 I'm a Computer Science student at Ain Shams University, passionate about building beautiful and functional mobile apps using Flutter.<br>
+💡 I love solving problems, learning new tech, and working on real-life projects.<br>
+🚀 Currently working on a Flutter app with a .NET backend that lets users create dynamic tables and queries.<br>
+🌱 Always learning: State Management, Firebase, Clean Architecture.
 </p>
 
----
+###
 
-### 📊 GitHub Stats
+<h2 align="left">I code with</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmagamal&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmagamal&layout=compact&theme=radical" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+</div>
+
+###
+
+<h2 align="left">📌 Projects</h2>
+
+<ul align="left">
+  <li>📱 <strong>Skill Exchange App</strong> – A Flutter app to help students share and learn skills</li>
+  <li>📊 <strong>Dynamic Table & Query Builder</strong> – Create custom tables & run conditions with no-code UI</li>
+  <li>🔐 <strong>Secure Auth System</strong> – Login & Signup with Dio and token handling</li>
+</ul>
+
+###
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmagamal&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmagamal&layout=compact&theme=tokyonight" height="180"/>
+</div>
+
+###
+
+<h2 align="left">📬 Contact me</h2>
+
+<p align="left">
+  <a href="mailto:rahma.gamal@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahmagamal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+###
 
-### 🚀 Projects I'm proud of
-
-- ✅ **Skill Exchange App** – Flutter & .NET backend to help students exchange skills  
-- 📋 **Dynamic Query Builder** – No-code tool for creating and querying custom tables  
-- 🔐 **Auth App with Dio** – Secure login/signup with REST APIs
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahma.gamal@example.com)
-
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+</div>
